@@ -22,6 +22,8 @@ public class TopologicalSort
 				arr[rowCount][columCount]=Integer.parseInt(lineArr[columCount]);			
 	
 			}
+
+			rowCount++;
 					
 
 		}
